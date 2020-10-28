@@ -5,7 +5,7 @@
 // values for the queue put as Global
 int rear = -1;
 int front = -1;
-int queue_array[MAX]={-1};
+int queue_array[MAX];
 
 
 
