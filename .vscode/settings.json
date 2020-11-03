@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "FIFO-Page.C": "cpp"
+        "FIFO-Page.C": "cpp",
+        "map": "cpp"
     }
 }
